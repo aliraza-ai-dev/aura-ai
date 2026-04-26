@@ -1,0 +1,23 @@
+# Flutter
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+build/
+*.lock
+
+# Firebase
+google-services.json
+firebase_options.dart
+GoogleService-Info.plist
+
+# API Keys — NEVER commit
+lib/services/ai_service.dart
+
+# IDE
+.idea/
+.vscode/
+*.iml
+
+# OS
+.DS_Store
+Thumbs.db
