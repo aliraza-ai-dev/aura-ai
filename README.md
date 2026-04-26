@@ -2,7 +2,14 @@
 
 A production-ready Flutter + Firebase AI chat application with multi-model support (Claude, GPT-4, Gemini), image generation, document analysis, subscription system, and admin panel.
 
----
+
+
+![Flutter](https://img.shields.io/badge/Flutter-3.41-blue?logo=flutter)
+![Firebase](https://img.shields.io/badge/Firebase-Enabled-orange?logo=firebase)
+![AI](https://img.shields.io/badge/Claude%20AI-Powered-purple)
+![Platform](https://img.shields.io/badge/Platform-Android%20%7C%20iOS-green)
+![License](https://img.shields.io/badge/License-MIT-lightgrey)
+
 
 ## ✨ Features
 
@@ -189,27 +196,12 @@ sharedConversations/
 
 ---
 
-## 📋 TODO / Future Enhancements
 
-- [ ] Google Sign-In integration
-- [ ] In-app purchase (StoreKit / Google Play Billing)
-- [ ] Speech-to-text voice input
-- [ ] Push notifications via Firebase Cloud Messaging
-- [ ] Streaming AI responses (SSE)
-- [ ] Backend proxy for API keys (Cloud Functions)
-- [ ] Export conversation as PDF/Image
-- [ ] Custom prompt template creation for users
-- [ ] Multi-language support
-- [ ] Rate limiting on backend
 
----
+## 👨‍💻 Developer
+Built by **Ali Raza** — Flutter Developer
+- GitHub: [@aliraza-ai-dev](https://github.com/aliraza-ai-dev)
+- Available for freelance Flutter projects
 
-## 📱 Screenshots
-
-_App screenshots will go here after building_
-
----
-
-## 📄 License
-
-MIT License — Built with ❤️ using Flutter + Firebase
+## ⭐ Support
+If you find this useful, please give it a star!
